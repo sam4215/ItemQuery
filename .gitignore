@@ -1,0 +1,6 @@
+# Created by .gitignore support plugin (hsz.mobi)
+ItemQuery.iml
+ItemQuery.ipr
+ItemQuery.iws
+.idea
+build
